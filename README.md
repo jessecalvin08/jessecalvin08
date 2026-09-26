@@ -1,51 +1,44 @@
-<h1 align="center">Hi, I'm Jesse Calvin</h1>
+<h1 align="center">Hi, I'm Jesse Calvin 👋</h1>
+
 <p align="center">
-  AI &amp; Data Science undergrad at Amity University · I build AI agents and full-stack web apps that real teams use
+  AI &amp; Data Science student at Amity University, Noida · Building AI agents and full-stack software for real teams
 </p>
 
 <p align="center">
-  <a href="mailto:jessecalvin08@gmail.com"><img src="https://img.shields.io/badge/Email-jessecalvin08%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:jessecalvin08@gmail.com"><img src="https://img.shields.io/badge/Email-jessecalvin08%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Jesse"/></a>
 </p>
 
----
+## About me
 
-### About me
+- 🎓 First-year B.Tech student in Artificial Intelligence &amp; Data Science (2026–2030)
+- 🛠️ I turn operational work into dependable software for a dental clinic, a 15-person media team, and a pharmaceutical supplier serving 100+ pharmacies
+- 🤖 Currently exploring local LLMs, agent workflows, voice interfaces, and safety testing for coding agents
+- 🎯 Seeking a **Summer 2027 internship** in AI automation or full-stack development
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science, Amity University (2026–2030)
-- 🛠️ I ship software for real users: a dental clinic, a pharma supplier serving 100+ pharmacies, and a 15-person media team
-- 🤖 Right now: local LLMs (Ollama, whisper.cpp), agent workflows and safety testing for coding agents
-- 🎯 Looking for a **Summer 2027 internship** in AI automation or full-stack development
+## Selected work
 
----
-
-### Open-source projects
-
-| Project | What it does | Stack |
+| Project | What I built | Stack |
 |---|---|---|
-| **[Jarvis](https://github.com/jessecalvin08/jarvis)** | Offline-first desktop voice assistant. On-device whisper.cpp speech-to-text, local TTS, a React HUD that streams replies over WebSockets, and swappable local Ollama / Claude Agent SDK reasoning | TypeScript · Node.js · React · Ollama · whisper.cpp |
-| **[rulebranch](https://github.com/jessecalvin08/rulebranch)** | Bounded safety testing for coding agents on Nebius Token Factory | Python |
-| **[J's TAB](https://github.com/jessecalvin08/js-tab)** | Glassmorphism Chrome new-tab workspace, built as a Manifest V3 extension | React · Vite · JavaScript |
+| **[Jarvis](https://github.com/jessecalvin08/jarvis)** | Offline-first desktop voice assistant with on-device transcription, local TTS, a streaming React HUD, and swappable local reasoning | TypeScript · Node.js · React · Ollama · whisper.cpp |
+| **[rulebranch](https://github.com/jessecalvin08/rulebranch)** | Bounded safety-testing harness for coding agents on Nebius Token Factory | Python |
+| **[J's TAB](https://github.com/jessecalvin08/js-tab)** | Glassmorphism Chrome new-tab workspace built as a Manifest V3 extension | React · Vite · JavaScript |
 
-### Client work (private repos, demo on request)
+## Software for real teams
 
-| Project | What it does | Stack |
-|---|---|---|
-| **AI Dental Appointment Agent** | Books a real dental clinic's patients from chat to a confirmed Google Calendar slot, checking availability live and remembering the conversation | n8n · Qwen (Ollama) · Google Calendar · Docker |
-| **Media Workflow System** | Live web app for a 15-member media team covering availability, rosters and equipment, being extended into a staged production workflow with roles, audit logs and tests | React · TypeScript · Express · MySQL · Prisma |
-| **Pharmacy Bulk Ordering** | Bulk-ordering and inventory system for a supplier serving 100+ pharmacies, with bcrypt-secured admin and server-side order validation | PHP · MySQL · Docker |
+> Some client systems remain private to protect their users and operational data. Demos are available on request.
 
----
+- **AI Dental Appointment Agent** — takes patients from chat to a confirmed Google Calendar booking with live availability checks and conversational memory.
+- **Media Workflow System** — supports availability, rosters, and equipment inventory for a 15-person church media team; now expanding into a staged production workflow.
+- **Pharmacy Bulk Ordering &amp; Inventory System** — supports catalogue browsing, requirements, and controlled stock and vendor administration for a pharma supplier.
 
-### Tech stack
+## Tools I reach for
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,mysql,html,css&theme=dark" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,prisma,vite&theme=dark" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,mysql,html,css&theme=dark" alt="Languages: TypeScript, JavaScript, Python, PHP, MySQL, HTML, CSS"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,prisma,vite&theme=dark" alt="Frameworks: React, Node.js, Express, Tailwind, Prisma, Vite"/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools: Git, GitHub, Docker, Linux, VS Code"/>
 </p>
 
-**Also:** n8n · Ollama · whisper.cpp · Railway · REST APIs · WebSockets · auth &amp; role-based access control
+**Also working with:** n8n · Railway · REST APIs · WebSockets · authentication · role-based access control
 
----
-
-<p align="center"><i>Open to Summer 2027 internships. The fastest way to reach me is email.</i></p>
+<p align="center"><i>Open to Summer 2027 internships. Email is the fastest way to reach me.</i></p>
