@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jessecalvin08"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1100&color=6F42C1&center=true&vCenter=true&width=760&height=48&lines=AI+%26+Data+Science+student;Building+AI+agents+for+real+teams;Full-stack+developer+in+progress" alt="Animated text: AI and Data Science student, building AI agents for real teams, full-stack developer in progress"/></a>
-</p>
-
-<p align="center">
   <a href="mailto:jessecalvin08@gmail.com"><img src="https://img.shields.io/badge/Email-jessecalvin08%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Jesse"/></a>
 </p>
 
