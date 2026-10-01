@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Jesse Calvin 👋</h1>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="jessecalvin08's GitHub profile" src="dark_mode.svg" />
+  </picture>
+</p>
+
+<p align="center">
   AI &amp; Data Science student at Amity University, Noida · Building AI agents and full-stack software for real teams
 </p>
 
