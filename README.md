@@ -8,6 +8,12 @@
   <a href="mailto:jessecalvin08@gmail.com"><img src="https://img.shields.io/badge/Email-jessecalvin08%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Jesse"/></a>
 </p>
 
+<p align="center">
+  <a href="https://instagram.com/jessecalvin08"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://medium.com/@jessecalvin08"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://x.com/jessecalvin08"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
+</p>
+
 ## About me
 
 - 🎓 First-year B.Tech student in Artificial Intelligence &amp; Data Science (2026–2030)
