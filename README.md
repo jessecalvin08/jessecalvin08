@@ -17,8 +17,8 @@
 ## About me
 
 - 🎓 First-year B.Tech student in Artificial Intelligence &amp; Data Science (2026–2030)
-- 🛠️ Currently working on agentic AI automations and full-stack web development
-- 🤖 Currently exploring local LLMs, agent workflows, voice interfaces, and safety testing for coding agents
+- 🛠️ Building agentic AI automations and full-stack web apps
+- 🤖 Experimenting with on-device LLMs, voice interfaces, and ways to safely stress-test coding agents
 - 🎯 Seeking a **Summer 2027 internship** in AI automation or full-stack development
 
 ## Selected work
