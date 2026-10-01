@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="380" viewBox="0 0 1660 380" role="img" aria-label="Jesse Calvin - AI and Data Science student, building AI agents and full-stack software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f4f7fb"/>
+      <stop offset="0.6" stop-color="#e6eefa"/>
+      <stop offset="1" stop-color="#7cc0ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1660" height="380" fill="url(#bg)"/>
+  <rect x="56" y="46" width="1548" height="288" rx="28" fill="#ffffff" fill-opacity="0.8" stroke="#cfdcf0"/>
+  <rect x="150" y="108" width="78" height="8" rx="4" fill="#0d7fc4"/>
+  <text x="150" y="190" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" fill="#0f1a2e">Jesse Calvin</text>
+  <text x="150" y="238" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" fill="#44546f">AI &amp; Data Science · AI agents · full-stack software</text>
+  <rect x="150" y="266" width="268" height="42" rx="21" fill="#d6e8fa"/>
+  <text x="172" y="294" font-family="Consolas,'Courier New',monospace" font-size="22" fill="#0d6aa8">~/ jessecalvin08</text>
+  <rect x="1230" y="72" width="330" height="236" rx="22" fill="#0f1a2e" fill-opacity="0.06"/>
+  <g font-family="Consolas,'Courier New',monospace" font-size="22" fill="#0d6aa8">
+    <text x="1256" y="120">$ whoami</text>
+    <text x="1256" y="160" fill="#33415c">student · builder</text>
+    <text x="1256" y="210">$ status</text>
+    <text x="1256" y="250" fill="#0f8a57">open to Summer 2027</text>
+    <text x="1256" y="286" fill="#0f8a57">internships</text>
+  </g>
+</svg>
