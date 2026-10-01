@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=4" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=4" />
-    <img alt="jessecalvin08's GitHub profile" src="dark_mode.svg?v=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg" />
+    <img alt="jessecalvin08's GitHub profile" src="profile-card-dark.svg" />
   </picture>
 </p>
 
