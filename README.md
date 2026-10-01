@@ -17,7 +17,7 @@
 ## About me
 
 - 🎓 First-year B.Tech student in Artificial Intelligence &amp; Data Science (2026–2030)
-- 🛠️ I turn operational work into dependable software for a dental clinic, a 15-person media team, and a pharmaceutical supplier serving 100+ pharmacies
+- 🛠️ Currently working on agentic AI automations and full-stack web development
 - 🤖 Currently exploring local LLMs, agent workflows, voice interfaces, and safety testing for coding agents
 - 🎯 Seeking a **Summer 2027 internship** in AI automation or full-stack development
 
