@@ -14,13 +14,12 @@
   <a href="https://x.com/jessecalvin08"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg" />
-    <img alt="jessecalvin08's GitHub profile" src="profile-card-dark.svg" />
-  </picture>
-</p>
+## About me
+
+- 🎓 First-year B.Tech student in Artificial Intelligence &amp; Data Science (2026–2030)
+- 🛠️ Building agentic AI automations and full-stack web apps
+- 🤖 Experimenting with on-device LLMs, voice interfaces, and ways to safely stress-test coding agents
+- 🎯 Seeking a **Summer 2027 internship** in AI automation or full-stack development
 
 ## Selected work
 
