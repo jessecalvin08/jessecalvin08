@@ -16,10 +16,13 @@
 
 ## About me
 
-- 🎓 First-year B.Tech student in Artificial Intelligence &amp; Data Science (2026–2030)
-- 🛠️ Building agentic AI automations and full-stack web apps
-- 🤖 Experimenting with on-device LLMs, voice interfaces, and ways to safely stress-test coding agents
-- 🎯 Seeking a **Summer 2027 internship** in AI automation or full-stack development
+- First-year B.Tech student in Artificial Intelligence & Data Science (2026–2030).
+- Designing autonomous service orchestration systems that combine LLM-driven decision layers, event-based workflow automation, API integrations, persistent context, and real-time business process execution.
+- Engineered a client-facing AI dental appointment system using n8n, local LLMs, Docker, Google Calendar, APIs, webhooks, and workflow orchestration to automate patient interactions and scheduling operations.
+- Engineering production-grade digital ecosystems across client-side architectures, server-side services, RESTful API layers, persistent data systems, authentication infrastructure, and scalable deployment environments.
+- Exploring edge-deployed LLM inference, speech-driven human–AI interfaces, and adversarial evaluation methodologies for safely stress-testing agentic coding systems.
+- Working across React, TypeScript, JavaScript, Node.js, Express.js, PHP, MySQL, REST APIs, n8n, Docker, Git/GitHub, and local LLM infrastructure.
+- Pursuing a Summer 2027 internship in AI automation, agentic systems, or full-stack product engineering.
 
 ## Selected work
 
